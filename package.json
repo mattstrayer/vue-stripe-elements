@@ -1,5 +1,5 @@
 {
-  "name": "vue-stripe-elements-plus",
+  "name": "@mattstrayer/vue-stripe-elements-plus",
   "version": "0.3.2",
   "description": "Stripe Elements components for Vue",
   "main": "./dist/index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fromatob/vue-stripe-elements.git"
+    "url": "git://github.com/mattstrayer/vue-stripe-elements.git"
   },
   "keywords": [
     "vue",
